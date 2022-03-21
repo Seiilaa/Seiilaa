@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Seiilaa
-- 👀 I’m interested in machine learning and Data Science in general
+- 👀 I’m interested in data analytics and machine learning
 - 🌱 I’m currently learning the insides of the classical ML algorithms and doing my first projects with neaural nets
-- 💞️ I’m looking to collaborate on ML for social good projects. Basically anything that helps make the world a better place 
-- 📫 How to reach me — vseiilaa@gmail.com
+- 💞️ I’m looking for a remote job as a Data Scientist or Data Analyst in a strong team that strives to create good and improve people's lives
+- 📫 How to reach me — vseiila@gmail.com
 
 <!---
 Seiilaa/Seiilaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
